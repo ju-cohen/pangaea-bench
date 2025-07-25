@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2312.03048">
+  <a href="https://arxiv.org/abs/2412.04204">
     <img
       src="https://badgen.net/badge/paper/arXiv/red"
       alt="PANGAEA Paper"
@@ -85,6 +85,7 @@ And the following **datasets**:
 
 **Note**: The following datasets are **community-contributed** and are not part of the original benchmark repository. We are grateful for these contributions, which help enrich the benchmark's diversity and applicability.
 - **Potsdam dataset** [[Link](https://www.isprs.org/education/benchmarks/UrbanSemLab/2d-sem-label-potsdam.aspx)]. Contributed by [@pierreadorni](https://github.com/pierreadorni).
+- **Open-Canopy** [[Link](https://arxiv.org/abs/2407.09392)]. Contributed by [@pierreadorni](https://github.com/pierreadorni).
 - **Geo-Bench datasets** [[Link](https://github.com/ServiceNow/geo-bench)]. Contributed by [@yurujaja](https://github.com/yurujaja).
 
 The repository supports the following **tasks** using geospatial (foundation) models:
