@@ -22,5 +22,3 @@ data/mados/splits/*
 
 .vscode
 .idea
-.devcontainer
-Dockerfile
